@@ -7,7 +7,13 @@ module.exports = {
         Karla: ['Karla', 'sans-serif']
       },
       colors: {
-        'light-coffee': '#6c643d'
+        'coffee': {
+          200: '#6c643d',
+          400: '#c63b14',
+          600: '#c63b144f',
+          700: '#2c140d',
+          800: '#6c210bad'
+        }
       },
       keyframes: {
         slideDown: {
